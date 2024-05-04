@@ -1,23 +1,23 @@
 import React from 'react';
 import "../styles/homeStyles.css"; // Import your CSS file
-import arugula from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/arugula.jpg";
-import basil from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/basil.jpeg";
-import beetroot from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/beetroot.jpeg";
-import bellpepper from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/bell pepper.jpeg";
-import brocoli from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/brocoli.jpeg";
-import brussel_sprouts from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/brussel sprouts.jpeg";
-import carrots from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/carrots.jpeg";
-import cauliflower from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/cauliflower.jpg";
-import cilantro from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/cilantro.jpg";
-import cucumber from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/cucumber.jpeg";
-import garlic from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/garlic.jpeg";
-import kale from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/kale.jpeg";
-import onions from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/onions.jpeg"
-import parseley from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/parseley.jpg";
-import potatoes from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/potatoes.jpeg";
-import shallots from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/shallots.jpeg";
-import spinach from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/spinach.jpeg";
-import tomatoes from "C:/Users/harik/Desktop/projects/chatbot-project/chatbot/src/assets/tomatoes.jpeg";
+import arugula from "../assets/arugula.jpg";
+import basil from "../assets/basil.jpeg";
+import beetroot from "../assets/beetroot.jpeg";
+import bellpepper from "../assets/bell pepper.jpeg";
+import brocoli from "../assets/brocoli.jpeg";
+import brussel_sprouts from "../assets/brussel sprouts.jpeg";
+import carrots from "../assets/carrots.jpeg";
+import cauliflower from "../assets/cauliflower.jpg";
+import cilantro from "../assets/cilantro.jpg";
+import cucumber from "../assets/cucumber.jpeg";
+import garlic from "../assets/garlic.jpeg";
+import kale from "../assets/kale.jpeg";
+import onions from "../assets/onions.jpeg"
+import parseley from "../assets/parseley.jpg";
+import potatoes from "../assets/potatoes.jpeg";
+import shallots from "../assets/shallots.jpeg";
+import spinach from "../assets/spinach.jpeg";
+import tomatoes from "../assets/tomatoes.jpeg";
 
 
 
