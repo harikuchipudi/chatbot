@@ -63,7 +63,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
   }
 
   .chatbot-container {
@@ -230,6 +229,12 @@ footer ul li a {
 
   .menu-container {
     padding: 1em;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
   }
 }
 
